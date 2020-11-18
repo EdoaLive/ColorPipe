@@ -3,7 +3,7 @@ A simple yet effective terminal keywords highlighting tool. Very useful for insp
 
 This is also a proof of concept of how easy can be developing simple tools in go.
 
-#Usage
+# Usage
 ```
 journalctl -ef | colorPipe
 dmesg | colorPipe
